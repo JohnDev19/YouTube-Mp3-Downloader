@@ -1,4 +1,4 @@
-# YouTube Audio Downloader
+# YouTube-Mp3-Downloader
 
 This project allows you to download audio from YouTube videos and convert them to MP3 format.
 
@@ -27,7 +27,7 @@ You can modify the settings in `config/settings.py` to change download directori
 
 ## File structure:
 ```
-youtube_audio_downloader/
+YouTube-Mp3-Downloader/
 │
 ├── src/
 │   ├── __init__.py
